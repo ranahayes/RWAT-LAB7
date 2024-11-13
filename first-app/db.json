@@ -1,0 +1,45 @@
+{
+    "events": [
+      {
+        "id": 0,
+        "name": "Concert A",
+        "location": "Venue 1",
+        "date": "2023-12-01",
+        "image": "https://picsum.photos/200/300?random=1",
+        "availableTickets": 100,
+        "wifi": true,
+        "parking": true
+      },
+      {
+        "id": 1,
+        "name": "Workshop B",
+        "location": "Venue 2",
+        "date": "2023-12-10",
+        "image": "https://picsum.photos/200/300?random=2",
+        "availableTickets": 50,
+        "wifi": false,
+        "parking": true
+      },
+      {
+        "id": 2,
+        "name": "Conference C",
+        "location": "Convention Center",
+        "date": "2024-01-15",
+        "image": "https://picsum.photos/200/300?random=3",
+        "availableTickets": 200,
+        "wifi": true,
+        "parking": false
+      },
+      {
+        "id": 3,
+        "name": "Festival D",
+        "location": "City Park",
+        "date": "2024-02-20",
+        "image": "https://picsum.photos/200/300?random=4",
+        "availableTickets": 500,
+        "wifi": true,
+        "parking": true
+      }
+    ]
+  }
+  
